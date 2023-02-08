@@ -1,0 +1,139 @@
+/* FUENTES */
+/* COLORES */
+* {
+  margin: 0px;
+  padding: 0px; }
+
+body {
+  overflow-x: hidden; }
+
+main {
+  background-color: #FDF3DD; }
+
+a {
+  font-family: "Marcellus", serif; }
+
+h1 {
+  font-family: "Marcellus", serif;
+  font-weight: lighter;
+  font-size: 50px; }
+
+p {
+  font-family: "Marcellus", serif; }
+
+.font-color {
+  color: #373D3B; }
+
+.nav-fondo {
+  background-color: #F1DFB6; }
+
+.card_font {
+  font-family: "Berkshire Swash", cursive;
+  text-align: center;
+  border-radius: 20px;
+  /* margin-right: 20px; */ }
+
+.card_img {
+  margin-top: 75px;
+  padding: 20px; }
+
+.card_one {
+  background-color: #D6E8F7;
+  border-color: #D6E8F7;
+  color: #CB962E;
+  height: 453px;
+  margin-top: 10px; }
+
+.card_two {
+  background-color: #F1DFB6;
+  border-color: #F1DFB6;
+  color: #EF601E;
+  width: 450px;
+  height: 300px; }
+
+.card_three {
+  background-color: #CAAACD;
+  border-color: #CAAACD;
+  color: #D6E8F7;
+  width: 450px;
+  height: 300px; }
+
+.card_four {
+  background-color: #EF601E;
+  border-color: #EF601E;
+  color: #D6E8F7;
+  width: 450px;
+  height: 300px; }
+
+.card_five {
+  background-color: #EF601E;
+  border-color: #EF601E;
+  color: #D6E8F7;
+  width: 450px;
+  height: 300px; }
+
+.card_six {
+  background-color: #D6E8F7;
+  border-color: #D6E8F7;
+  color: #CB962E;
+  width: 450px;
+  height: 300px; }
+
+.card_seven {
+  background-color: #F1DFB6;
+  border-color: #F1DFB6;
+  color: #EF601E;
+  width: 450px;
+  height: 300px; }
+
+.grid {
+  max-width: 100vw;
+  display: grid;
+  grid-template-columns: 0.25fr 1fr 1fr 1fr 1fr 0.25fr;
+  grid-template-rows: 0.25fr 1fr 1fr 2fr 0.25fr;
+  gap: 10px; }
+
+.title {
+  grid-column: 2/3;
+  grid-row: 2/4;
+  margin-top: 55px;
+  margin-left: 45px; }
+
+.subtitle {
+  margin-left: 30px;
+  margin-top: -15px; }
+
+.card_uno {
+  grid-column: 2/3;
+  grid-row: 3/5;
+  background-position: center; }
+
+.card_dos {
+  grid-column: 3/4;
+  grid-row: 2/4;
+  background-position: center; }
+
+.card_tres {
+  grid-column: 4/5;
+  grid-row: 2/4;
+  background-position: center; }
+
+.card_cuatro {
+  grid-column: 5/6;
+  grid-row: 2/4;
+  background-position: center; }
+
+.card_cinco {
+  grid-column: 3/4;
+  grid-row: 4/5;
+  background-position: center; }
+
+.card_seis {
+  grid-column: 4/5;
+  grid-row: 4/5;
+  background-position: center; }
+
+.card_siete {
+  grid-column: 5/6;
+  grid-row: 4/5;
+  background-position: center; }

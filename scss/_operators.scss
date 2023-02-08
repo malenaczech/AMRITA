@@ -1,0 +1,7 @@
+@mixin cards($fondo, $borde, $texto, $ancho, $largo){
+    background-color: $fondo;
+    border-color: $borde;
+    color: $texto;
+    width: $ancho;
+    height: $largo;
+}

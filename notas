@@ -1,0 +1,80 @@
+        <div class="container-md pt-1">
+            <div class="row pt-1">
+                <div class="col-12 pt-3">
+                    <h1>AMRITA - RINCON DE LUZ</h1>
+                </div>
+                <div class="col-3 pt-3">
+                    <article class="card_uno">
+                        <div class="card card_font card_uno" style="width: 18rem;">
+                            <img src="resources/placeholder-uno.jpg" class="card-img-top card_img" alt="...">
+                            <div class="card-body">
+                                <h2 class="card-text">Sobre mi</h2>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-3 pt-3">
+                    <article class="card_uno">
+                        <div class="card card_font card_uno" style="width: 18rem;">
+                            <img src="resources/placeholder-uno.jpg" class="card-img-top card_img" alt="...">
+                            <div class="card-body">
+                                <h2 class="card-text">Sobre mi</h2>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-3 pt-3">
+                    <article class="card_uno">
+                        <div class="card card_font card_uno" style="width: 18rem;">
+                            <img src="resources/placeholder-uno.jpg" class="card-img-top card_img" alt="...">
+                            <div class="card-body">
+                                <h2 class="card-text">Sobre mi</h2>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-3 pt-3">
+                    <article class="card_uno">
+                        <div class="card card_font card_uno" style="width: 18rem;">
+                            <img src="resources/placeholder-uno.jpg" class="card-img-top card_img" alt="...">
+                            <div class="card-body">
+                                <h2 class="card-text">Sobre mi</h2>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-3 pt-3">
+                    <article class="card_uno">
+                        <div class="card card_font card_uno" style="width: 18rem;">
+                            <img src="resources/placeholder-uno.jpg" class="card-img-top card_img" alt="...">
+                            <div class="card-body">
+                                <h2 class="card-text">Sobre mi</h2>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-3 pt-3">
+                    <article class="card_uno">
+                        <div class="card card_font card_uno" style="width: 18rem;">
+                            <img src="resources/placeholder-uno.jpg" class="card-img-top card_img" alt="...">
+                            <div class="card-body">
+                                <h2 class="card-text">Sobre mi</h2>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-xl-3 pt-3">
+                    <article class="card_uno">
+                        <div class="card card_font card_uno" style="width: 18rem;">
+                            <img src="resources/placeholder-uno.jpg" class="card-img-top card_img" alt="...">
+                            <div class="card-body">
+                                <h2 class="card-text">Sobre mi</h2>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </div>
+
+
+        resources/placeholder-uno.jpg

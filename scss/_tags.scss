@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+main{
+    background-color: $color-fondo;
+}
+
+a{
+    font-family: $fuente-principal;
+}
+
+h1{
+    font-family: $fuente-principal;
+    font-weight: lighter;
+    font-size: 50px;
+}
+
+p{
+    font-family: $fuente-principal;
+}
+
+.font-color{
+    color: $color-texto;
+}
+

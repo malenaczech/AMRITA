@@ -1,0 +1,67 @@
+.card{
+    &_font{
+        font-family: $fuente-secundaria;
+        text-align: center;
+        border-radius: 20px;
+        /* margin-right: 20px; */
+        
+    }
+    &_img{
+        margin-top: 75px;
+        padding: 20px;
+    }
+    &_one{
+        background-color: $celeste;
+        border-color: $celeste;
+        color: $marron;
+        height: 453px;
+        margin-top: 10px;
+    }
+    &_two{
+        background-color: $rosa;
+        border-color: $rosa;
+        color: $rojo;
+        width: 450px;
+        height: 300px;
+    }
+    &_three{
+        background-color: $lila;
+        border-color: $lila;
+        color: $celeste;
+        width: 450px;
+        height: 300px;
+    }
+    &_four{
+        background-color: $rojo;
+        border-color: $rojo;
+        color: $celeste;
+        width: 450px;
+        height: 300px;
+    }
+    &_five{
+        background-color: $rojo;
+        border-color: $rojo;
+        color: $celeste;
+        width: 450px;
+        height: 300px;
+    }
+    &_six{
+        background-color: $celeste;
+        border-color: $celeste;
+        color: $marron;
+        width: 450px;
+        height: 300px;
+    }
+    &_seven{
+        background-color: $rosa;
+        border-color: $rosa;
+        color: $rojo;
+        width: 450px;
+        height: 300px;
+    }
+
+}
+
+
+
+
