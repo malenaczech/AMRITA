@@ -1,3 +1,39 @@
 .nav-fondo{
     background-color: $rosa;
 }
+
+.nav_link{
+    font-family: $fuente-principal;
+    &:hover{
+        color: black;
+    }
+
+}
+
+/* .separator::after{
+        content: " ";
+        height: 4px;
+        width: 0;
+        color: black;
+        display: block;
+        transition: all 300ms;
+    }
+
+.separator:hover::after{
+    width: 100%;
+} */
+
+.separator::after{
+        content: "   |";
+        width: 5px;
+        height: 20px;
+} 
+
+
+.logo{
+    width: 40px;
+}
+
+.page_active{
+    text-decoration: underline;
+}

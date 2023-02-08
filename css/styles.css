@@ -11,7 +11,7 @@ main {
   background-color: #FDF3DD; }
 
 a {
-  font-family: "Marcellus", serif; }
+  text-decoration: none; }
 
 h1 {
   font-family: "Marcellus", serif;
@@ -26,6 +26,34 @@ p {
 
 .nav-fondo {
   background-color: #F1DFB6; }
+
+.nav_link {
+  font-family: "Marcellus", serif; }
+  .nav_link:hover {
+    color: black; }
+
+/* .separator::after{
+        content: " ";
+        height: 4px;
+        width: 0;
+        color: black;
+        display: block;
+        transition: all 300ms;
+    }
+
+.separator:hover::after{
+    width: 100%;
+} */
+.separator::after {
+  content: "   |";
+  width: 5px;
+  height: 20px; }
+
+.logo {
+  width: 40px; }
+
+.page_active {
+  text-decoration: underline; }
 
 .card_font {
   font-family: "Berkshire Swash", cursive;
@@ -54,7 +82,7 @@ p {
 .card_three {
   background-color: #CAAACD;
   border-color: #CAAACD;
-  color: #D6E8F7;
+  color: #F1DFB6;
   width: 450px;
   height: 300px; }
 
@@ -75,7 +103,7 @@ p {
 .card_six {
   background-color: #D6E8F7;
   border-color: #D6E8F7;
-  color: #CB962E;
+  color: #CAAACD;
   width: 450px;
   height: 300px; }
 
@@ -137,3 +165,32 @@ p {
   grid-column: 5/6;
   grid-row: 4/5;
   background-position: center; }
+
+.card_reg {
+  padding-left: 4.375rem;
+  padding-top: 3.75rem;
+  padding-bottom: 3.125rem; }
+
+.card-reg {
+  width: 66.875rem;
+  border-radius: 25px;
+  background-color: #FDF3DD;
+  border-color: #F1DFB6;
+  border-width: 10px; }
+
+.card-body {
+  margin: 50px;
+  color: #EF601E; }
+
+.card-title {
+  font-family: "Berkshire Swash", cursive; }
+
+.btn-primary {
+  background-color: #F1DFB6;
+  border-color: #F1DFB6;
+  color: #EF601E;
+  width: 39.063rem; }
+  .btn-primary:hover {
+    background-color: #EF601E;
+    color: #FDF3DD;
+    border-color: #EF601E; }

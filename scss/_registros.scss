@@ -1,0 +1,34 @@
+.card_reg{
+    padding-left: 4.375rem;
+    padding-top: 3.75rem;
+    padding-bottom: 3.125rem;
+}
+
+.card-reg{
+    width: 66.875rem;
+    border-radius: 25px;
+    background-color: $color-fondo;
+    border-color: $rosa;
+    border-width: 10px;
+}
+
+.card-body{
+    margin: 50px;
+    color: $rojo;
+}
+
+.card-title{
+    font-family: $fuente-secundaria;
+}
+
+.btn-primary{
+    background-color: $rosa;
+    border-color: $rosa;
+    color: $rojo;
+    width: 39.063rem;
+    &:hover{
+        background-color: $rojo;
+        color: $color-fondo;
+        border-color: $rojo;
+    }
+}
