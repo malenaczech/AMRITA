@@ -197,7 +197,7 @@ p {
   justify-content: center; }
 
 .card-reg {
-  width: 85rem;
+  width: 66.875rem;
   border-radius: 1.563rem;
   background-color: #FDF3DD;
   border-color: #F1DFB6;
@@ -214,7 +214,6 @@ p {
   margin: 1.75rem; }
 
 .btn-primary {
-  margin-top: 10.5rem;
   background-color: #F1DFB6;
   border-color: #F1DFB6;
   color: #EF601E;
