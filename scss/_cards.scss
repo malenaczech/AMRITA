@@ -2,62 +2,81 @@
     &_font{
         font-family: $fuente-secundaria;
         text-align: center;
-        border-radius: 20px;
+        border-radius: 1.25rem;
         /* margin-right: 20px; */
         
     }
     &_img{
-        margin-top: 75px;
-        padding: 20px;
+        margin-top: 4.688rem;
+        margin-bottom: -3.75rem;
+        padding: 1.25rem;
+    }
+    &_imgdos{
+        width: 6.875rem;
+        align-self: center;
+        margin-top: 0.625rem;
+        margin-bottom: -3.75rem;
+    }
+    &_imgtres{
+        width: 11.25rem;
+        align-self: center;
+        margin-top: 2.188rem;
+        margin-bottom: -3.125rem;
+    }
+    &_imgcuatro{
+        width: 15.625rem;
+        align-self: center;
+        margin-top: 2.5rem;
+        margin-bottom: -2.5rem;
     }
     &_one{
         background-color: $celeste;
         border-color: $celeste;
         color: $marron;
-        height: 453px;
-        margin-top: 10px;
+        height: 28.313rem;
+        margin-top: 0.625rem;
     }
     &_two{
         background-color: $rosa;
         border-color: $rosa;
         color: $rojo;
-        width: 450px;
-        height: 300px;
+        width: 28.125rem;
+        height: 18.75rem;
     }
     &_three{
         background-color: $lila;
         border-color: $lila;
         color: $rosa;
-        width: 450px;
-        height: 300px;
+        width: 28.125rem;
+        height: 18.75rem;
     }
     &_four{
         background-color: $rojo;
         border-color: $rojo;
         color: $celeste;
-        width: 450px;
-        height: 300px;
+        width: 28.125rem;
+        height: 18.75rem;
     }
     &_five{
         background-color: $rojo;
         border-color: $rojo;
         color: $celeste;
-        width: 450px;
-        height: 300px;
+        width: 28.125rem;
+        height: 18.75rem;
     }
     &_six{
         background-color: $celeste;
         border-color: $celeste;
         color: $lila;
-        width: 450px;
-        height: 300px;
+        width: 28.125rem;
+        height: 18.75rem;
     }
     &_seven{
         background-color: $rosa;
         border-color: $rosa;
         color: $rojo;
-        width: 450px;
-        height: 300px;
+        width: 28.125rem;
+        height: 18.75rem;
     }
 
 }
