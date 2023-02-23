@@ -1,0 +1,39 @@
+.card-main{
+    display: flex;
+    justify-content: center;
+    margin: 0px 50px;
+    border: $rosa solid 10px;
+    border-radius: 1.563rem;
+}
+
+.max-container{
+    padding: 30px 0px;
+}
+
+.card-body{
+    margin: 3.125rem;
+    color: $rojo;
+}
+
+.card-title{
+    font-family: $fuente-secundaria;
+}
+
+/* .boton{
+    //margin-top: 10.5rem;
+    background-color: $rosa;
+    border-color: $rosa;
+    color: $rojo;
+    width: 39.063rem;
+    &:hover{
+        background-color: $rojo;
+        color: $color-fondo;
+        border-color: $rojo;
+    }
+} */
+
+.img-fluid{
+    width: 400px;
+    height: 400px;
+    margin: 1.75rem;
+}

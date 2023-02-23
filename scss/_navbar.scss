@@ -2,7 +2,9 @@
     background-color: $rosa;
 }
 
-.nav_link{
+.nav-link{
+    color: $rojo;
+    font-size: 16px;
     font-family: $fuente-principal;
     font-weight: bold;
     &:hover{

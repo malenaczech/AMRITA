@@ -1,0 +1,19 @@
+.nav-mnsj{
+    color: $azul;
+}
+
+.card-mnsj{
+    color: $azul;
+}
+
+.btn-taller{
+    background-color: $rosa;
+    border-color: $rosa;
+    color: $violeta;
+    width: 39.063rem;
+    &:hover{
+        background-color: $lila;
+        color: $color-fondo;
+        border-color: $lila;
+    }
+}
