@@ -226,6 +226,10 @@ p {
   height: 400px;
   margin: 1.75rem; }
 
+.mns-ang {
+  width: 1000px;
+  margin-left: 100px; }
+
 .nav_reg {
   color: #EF601E; }
 
@@ -261,6 +265,12 @@ p {
     background-color: #EF601E;
     color: #FDF3DD;
     border-color: #EF601E; }
+
+.bold {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: -3px; }
 
 .nav-tarot {
   color: #A46FA8; }
@@ -323,9 +333,12 @@ p {
     color: #FDF3DD;
     border-color: #CAAACD; }
 
+.tall-prox {
+  margin-top: 70px; }
+
 .redes {
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
   margin-right: 10px; }
 
 .card-contacto {
@@ -333,4 +346,5 @@ p {
   margin-top: 15px; }
 
 .text-cont {
-  font-size: 40px; }
+  font-size: 30px;
+  color: #EF601E; }

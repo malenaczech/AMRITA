@@ -31,7 +31,7 @@
 }
 
 .boton{
-    //margin-top: 10.5rem;
+    //margin-top: 10.5rem; 
     background-color: $rosa;
     border-color: $rosa;
     color: $rojo;
@@ -41,4 +41,11 @@
         color: $color-fondo;
         border-color: $rojo;
     }
+}
+
+.bold{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: -3px;
 }
