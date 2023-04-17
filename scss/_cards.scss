@@ -7,7 +7,7 @@
         
     }
     &_img{
-        margin-top: 4.688rem;
+        margin-top: 10px;
         margin-bottom: -3.75rem;
         padding: 1.25rem;
     }
@@ -85,3 +85,13 @@
     transition: all 0.3s ease-in;
 }
 
+.card_img_six{
+    height: 250px;
+    width: 200px;
+    margin-top: 5px;
+    margin-left: 40px;
+}
+
+.card_six_text{
+    margin-top: -20px;
+}

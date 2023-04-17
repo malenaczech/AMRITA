@@ -21,3 +21,18 @@
 .tall-prox{
 margin-top: 70px;
 }
+
+.btn-reiki{   
+    background-color: $rosa;
+    border-color: $rosa;
+    color: $azul;
+    width: 39.063rem;
+    margin-top: 150px;
+    &:hover{
+        background-color: $azul;
+        color: $color-fondo;
+        border-color: $azul;
+    }
+}
+
+

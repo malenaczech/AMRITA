@@ -65,7 +65,7 @@ p {
   /* margin-right: 20px; */ }
 
 .card_img {
-  margin-top: 4.688rem;
+  margin-top: 10px;
   margin-bottom: -3.75rem;
   padding: 1.25rem; }
 
@@ -139,6 +139,15 @@ p {
 .card-hover:hover {
   transform: scale(0.95, 0.95);
   transition: all 0.3s ease-in; }
+
+.card_img_six {
+  height: 250px;
+  width: 200px;
+  margin-top: 5px;
+  margin-left: 40px; }
+
+.card_six_text {
+  margin-top: -20px; }
 
 .grid {
   max-width: 100vw;
@@ -335,6 +344,17 @@ p {
 
 .tall-prox {
   margin-top: 70px; }
+
+.btn-reiki {
+  background-color: #F1DFB6;
+  border-color: #F1DFB6;
+  color: #91A1AF;
+  width: 39.063rem;
+  margin-top: 150px; }
+  .btn-reiki:hover {
+    background-color: #91A1AF;
+    color: #FDF3DD;
+    border-color: #91A1AF; }
 
 .redes {
   width: 40px;
