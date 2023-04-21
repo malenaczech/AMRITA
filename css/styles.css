@@ -18,6 +18,9 @@ h1 {
   font-weight: lighter;
   font-size: 3.125rem; }
 
+h2 {
+  font-family: "Berkshire Swash", cursive; }
+
 p {
   font-family: "Marcellus", serif; }
 
@@ -85,6 +88,13 @@ p {
   width: 15.625rem;
   align-self: center;
   margin-top: 2.5rem;
+  margin-bottom: -2.5rem; }
+
+.card_imgseis {
+  width: 160px;
+  height: 230px;
+  align-self: center;
+  margin-top: 10px;
   margin-bottom: -2.5rem; }
 
 .card_one {
@@ -303,8 +313,9 @@ p {
   margin: 1.75rem; }
 
 .btn-tarot {
-  width: 110px;
+  width: 700px;
   background-color: #F1DFB6;
+  margin-top: 33px;
   color: #A46FA8; }
   .btn-tarot:hover {
     background-color: #CAAACD;
@@ -336,7 +347,8 @@ p {
   background-color: #F1DFB6;
   border-color: #F1DFB6;
   color: #A46FA8;
-  width: 39.063rem; }
+  width: 39.063rem;
+  margin-top: 50px; }
   .btn-taller:hover {
     background-color: #CAAACD;
     color: #FDF3DD;
@@ -349,8 +361,8 @@ p {
   background-color: #F1DFB6;
   border-color: #F1DFB6;
   color: #91A1AF;
-  width: 39.063rem;
-  margin-top: 150px; }
+  width: 500px;
+  margin-top: 50px; }
   .btn-reiki:hover {
     background-color: #91A1AF;
     color: #FDF3DD;
